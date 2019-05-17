@@ -27,6 +27,15 @@ const ProductSpecial = styled(Product)`
 	background: black;
 `;
 
+// animation
+// https://codesandbox.io/s/github/luyentap/react_styled-components
+
+//@media
+//same css
+
+//hover, :
+// https://www.styled-components.com/docs/basics#pseudoelements-pseudoselectors-and-nesting
+
 class App extends React.Component {
 	render = () => {
 		return (
