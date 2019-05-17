@@ -18,6 +18,8 @@ const Product = styled.div`
 //truyen props
 const Title = styled.h2`
 	color: ${props => props.color};
+	/* :default props */
+	font-size: ${props => props.size || "30px"};
 `;
 
 //extend Product Component, can extend Component isn't styled component
