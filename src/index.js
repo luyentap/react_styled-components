@@ -28,7 +28,8 @@ const ProductSpecial = styled(Product)`
 `;
 
 // animation
-// https://codesandbox.io/s/github/luyentap/react_styled-components
+// https://www.styled-components.com/docs/basics#animations
+
 
 //@media
 //same css
